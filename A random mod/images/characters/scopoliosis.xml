@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="scopoliosis.png">
+<SubTexture name="scopoliosis down0000" x="381" y="184" width="381" height="180" frameX="-51" frameY="-24" frameWidth="483" frameHeight="233" />
+<SubTexture name="scopoliosis idle0000" x="0" y="0" width="381" height="185" frameX="-51" frameY="-24" frameWidth="483" frameHeight="233" />
+<SubTexture name="scopoliosis right0000" x="381" y="0" width="381" height="184" frameX="-51" frameY="-26" frameWidth="483" frameHeight="233" />
+<SubTexture name="scopoliosis up0000" x="0" y="370" width="381" height="167" frameX="-51" frameY="-42" frameWidth="483" frameHeight="233" />
+<SubTexture name="scopoliosis left0000" x="0" y="185" width="381" height="185" frameX="-51" frameY="-24" frameWidth="483" frameHeight="233" />
+</TextureAtlas>

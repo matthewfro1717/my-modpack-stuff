@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mull.png">
+<SubTexture name="mull idle0000" x="0" y="0" width="1301" height="1432" frameX="-490" frameY="-172" frameWidth="2037" frameHeight="1604" />
+<SubTexture name="mull left0000" x="1301" y="0" width="1409" height="1381" frameX="-115" frameY="-223" frameWidth="2037" frameHeight="1604" />
+<SubTexture name="mull left0001" x="0" y="2756" width="1321" height="1197" frameX="-95" frameY="-347" frameWidth="2037" frameHeight="1604" />
+<SubTexture name="mull right0000" x="2710" y="0" width="1375" height="1336" frameX="-179" frameY="-192" frameWidth="2037" frameHeight="1604" />
+<SubTexture name="mull right0001" x="2603" y="1432" width="1260" height="1315" frameX="-316" frameY="-237" frameWidth="2037" frameHeight="1604" />
+<SubTexture name="mull up0000" x="1220" y="1432" width="1383" height="1320" frameX="-326" frameY="-206" frameWidth="2037" frameHeight="1604" />
+<SubTexture name="mull up0001" x="0" y="1432" width="1220" height="1324" frameX="-486" frameY="-197" frameWidth="2037" frameHeight="1604" />
+<SubTexture name="mull down0000" x="1321" y="2756" width="1337" height="1172" frameX="-239" frameY="-432" frameWidth="2037" frameHeight="1604" />
+<SubTexture name="mull down0001" x="2658" y="2756" width="1380" height="1007" frameX="-196" frameY="-597" frameWidth="2037" frameHeight="1604" />
+</TextureAtlas>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="scopomania.png">
+<SubTexture name="right0000" x="438" y="0" width="426" height="400" frameX="-47" frameY="0" frameWidth="523" frameHeight="400" />
+<SubTexture name="right0001" x="0" y="0" width="438" height="400" frameX="-41" frameY="0" frameWidth="523" frameHeight="400" />
+<SubTexture name="up0000" x="1307" y="788" width="443" height="390" frameX="-35" frameY="0" frameWidth="523" frameHeight="400" />
+<SubTexture name="up0001" x="1307" y="0" width="443" height="395" frameX="-35" frameY="0" frameWidth="523" frameHeight="400" />
+<SubTexture name="down0000" x="1307" y="395" width="443" height="393" frameX="-35" frameY="-7" frameWidth="523" frameHeight="400" />
+<SubTexture name="down0001" x="0" y="400" width="443" height="400" frameX="-35" frameY="0" frameWidth="523" frameHeight="400" />
+<SubTexture name="left0000" x="460" y="800" width="454" height="398" frameX="-31" frameY="-1" frameWidth="523" frameHeight="400" />
+<SubTexture name="left0001" x="0" y="800" width="460" height="399" frameX="-28" frameY="0" frameWidth="523" frameHeight="400" />
+<SubTexture name="idle0000" x="864" y="0" width="443" height="400" frameX="-35" frameY="0" frameWidth="523" frameHeight="400" />
+<SubTexture name="idle0001" x="864" y="400" width="443" height="400" frameX="-35" frameY="0" frameWidth="523" frameHeight="400" />
+</TextureAtlas>

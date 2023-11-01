@@ -1,0 +1,41 @@
+{
+	"storyName": "",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"fractlous",
+			"multicorn",
+			[
+		       0,
+		       175,
+		       60
+			]
+		],
+		[
+			"the_eye_of_god",
+			"ommetaphobia",
+			[
+		       130,
+		       129,
+		       121
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Ready Pissed Bandu Mod",
+	"hiddenUntilUnlocked": false
+}

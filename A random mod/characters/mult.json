@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				50,
+				237
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "mull idle"
+		},
+		{
+			"offsets": [
+				122,
+				435
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "mull up"
+		},
+		{
+			"offsets": [
+				289,
+				85
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "mull left"
+		},
+		{
+			"offsets": [
+				-173,
+				125
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "mull right"
+		},
+		{
+			"offsets": [
+				300,
+				-38
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "mull down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mull",
+	"position": [
+		-650,
+		-340
+	],
+	"healthicon": "47",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		251,
+		240
+	],
+	"camera_position": [
+		-160,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 0.799999999999999
+}
